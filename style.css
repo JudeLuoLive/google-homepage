@@ -1,9 +1,9 @@
-li {
-	float: right;
-}
-
-a {
+#footer {
+	width: 100%;
+	position: absolute;
+	height: 35px;
 	display: block;
-	padding: 3px;
-	background-color: #dddddd;
+	bottom: 0;
+	font-size: 10pt;
+	
 }
